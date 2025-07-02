@@ -16,7 +16,7 @@ export const useAuthStore = defineStore('auth', () => {
 
   const isAuthenticated = computed(() => !!user.value)
 
-  const login = async (email: string, password: string, name?: string) => {
+  const login = async (email: string, _password: string, name?: string) => {
     isLoading.value = true
     
     try {

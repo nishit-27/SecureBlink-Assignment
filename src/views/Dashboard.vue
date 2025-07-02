@@ -226,7 +226,7 @@ import analytics from '../assets/analytics.svg'
 import currencyExchange from '../assets/currency-exchange-2.svg'
 import soundWave from '../assets/sound-wave.svg'
 import logout from '../assets/logout.svg'
-import eAdd from '../assets/e-add.svg'
+
 import bitcoin from '../assets/bitcoin-2.svg'
 import currencyDollar from '../assets/currency-dollar.svg'
 import currencyEuro from '../assets/currency-euro.svg'
